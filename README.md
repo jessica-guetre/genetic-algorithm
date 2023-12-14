@@ -11,12 +11,5 @@ This Jupyter Notebook, `genetic_algorithm.ipynb`, demonstrates a genetic algorit
 5. **Bitwise Mutation**: Introduces variations by flipping chromosome bits.
 6. **Genetic Algorithm Execution**: Main loop for evolving the population towards optimal solutions.
 
-### Experiments and Results
-Conducts experiments with different mutation and crossover rates, observing their impact on performance.
-
-### Installation and Usage
-- Ensure Python and Jupyter Notebook are installed.
-- Clone this repository and run the notebook in Jupyter.
-
 ### Dependencies
 - `numpy`
