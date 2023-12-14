@@ -1,6 +1,4 @@
-# Genetic Algorithm for Optimization
-
-### Overview
+### Genetic Algorithm for Optimization
 This Jupyter Notebook, `genetic_algorithm.ipynb`, demonstrates a genetic algorithm's application in optimization problems, including detailed implementations of its components.
 
 ### Key Features
